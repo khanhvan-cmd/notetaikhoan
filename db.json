@@ -1,0 +1,31 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "username": "admin",
+      "password": "admin123",
+      "status": "active",
+      "lastLogin": "2025-04-12T10:00:00.000Z",
+      "createdAt": "2025-04-12T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "username": "user1",
+      "password": "user123",
+      "status": "active",
+      "lastLogin": "2025-04-12T10:00:00.000Z",
+      "createdAt": "2025-04-12T10:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "username": "user2",
+      "password": "user456",
+      "status": "active",
+      "lastLogin": "2025-04-12T10:00:00.000Z",
+      "createdAt": "2025-04-12T10:00:00.000Z"
+    }
+  ]
+}
