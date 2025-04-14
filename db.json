@@ -3,7 +3,7 @@
     {    
       "id": 1,
       "userId": 1,
-      "username": "Nguyễn Thị Khánh Vân",
+      "username": "Admin",
       "password": "admin123",
       "status": "active",
       "lastLogin": "2025-04-12T10:00:00.000Z",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "userId": 2,
-      "username": "Nguyễn Văn Anh",
+      "username": "User1",
       "password": "user123",
       "status": "active",
       "lastLogin": "2025-04-12T10:00:00.000Z",
@@ -21,11 +21,11 @@
     {
       "id": 3,
       "userId": 3,
-      "username": "Nguyễn Thị Bình",
+      "username": "User2",
       "password": "user456",
       "status": "active",
       "lastLogin": "2025-04-12T10:00:00.000Z",
       "createdAt": "2025-04-12T10:00:00.000Z"
-    } 
+    }    
   ]
 }
