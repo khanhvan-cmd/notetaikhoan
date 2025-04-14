@@ -26,6 +26,15 @@
       "status": "active",
       "lastLogin": "2025-04-12T10:00:00.000Z",
       "createdAt": "2025-04-12T10:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "userId": 34,
+      "username": "Kvan",
+      "password": "user456",
+      "status": "active",
+      "lastLogin": "2025-04-12T10:00:00.000Z",
+      "createdAt": "2025-04-12T10:00:00.000Z"
     }  
   ]
 }
